@@ -1,0 +1,121 @@
+[{
+  "id": 1,
+  "image":"./images/img1.jpg",
+  "first_name": "Merissa",
+  "last_name": "Frean",
+  "email": "mfrean0@t.co",
+  "gender": "Male",
+  "price": 2001
+}, {
+  "id": 2,
+  "image":"./images/img2.jpg",
+  "first_name": "Minne",
+  "last_name": "Lethebridge",
+  "email": "mlethebridge1@ucoz.com",
+  "gender": "Genderfluid",
+  "price": 1992
+}, {
+  "id": 3,
+  "image":"./images/img3.jpg",
+  "first_name": "Ninetta",
+  "last_name": "Ciccerale",
+  "email": "nciccerale2@smugmug.com",
+  "gender": "Genderfluid",
+  "price": 2001
+}, {
+  "id": 4,
+  "image":"./images/img4.jpg",
+  "first_name": "Zorine",
+  "last_name": "Kobiela",
+  "email": "zkobiela3@ibm.com",
+  "gender": "Polygender",
+  "price": 2011
+}, {
+  "id": 5,
+  "image":"./images/img5.jpg",
+  "first_name": "Evin",
+  "last_name": "Welbeck",
+  "email": "ewelbeck4@theatlantic.com",
+  "gender": "Female",
+  "price": 2008
+}, {
+  "id": 6,
+  "image":"./images/img6.jpg",
+  "first_name": "Win",
+  "last_name": "Gobel",
+  "email": "wgobel5@example.com",
+  "gender": "Genderfluid",
+  "price": 1998
+}, {
+  "id": 7,
+  "image":"./images/img7.jpg",
+  "first_name": "Keane",
+  "last_name": "Hawkeridge",
+  "email": "khawkeridge6@yellowbook.com",
+  "gender": "Polygender",
+  "price": 1989
+}, {
+  "id": 8,
+  "image":"./images/img8.jpg",
+  "first_name": "Kelcy",
+  "last_name": "Lanceter",
+  "email": "klanceter7@hugedomains.com",
+  "gender": "Non-binary",
+  "price": 2009
+}, {
+  "id": 9,
+  "image":"./images/img9.jpg",
+  "first_name": "Brinna",
+  "last_name": "Itzhaiek",
+  "email": "bitzhaiek8@mac.com",
+  "gender": "Genderqueer",
+  "price": 2006
+}, {
+  "id": 10,
+  "image":"./images/img10.jpg",
+  "first_name": "Cristina",
+  "last_name": "Siddens",
+  "email": "csiddens9@photobucket.com",
+  "gender": "Non-binary",
+  "price": 2005
+}, {
+  "id": 11,
+  "image":"./images/img11.jpg",
+  "first_name": "Filbert",
+  "last_name": "Warrick",
+  "email": "fwarricka@mozilla.com",
+  "gender": "Genderfluid",
+  "price": 1996
+}, {
+  "id": 12,
+  "image":"./images/img12.jpg",
+  "first_name": "Kattie",
+  "last_name": "Jozefiak",
+  "email": "kjozefiakb@whitehouse.gov",
+  "gender": "Female",
+  "price": 2006
+}, {
+  "id": 13,
+  "image":"./images/img13.jpg",
+  "first_name": "Harrie",
+  "last_name": "Edworthye",
+  "email": "hedworthyec@goodreads.com",
+  "gender": "Non-binary",
+  "price": 2000
+}, {
+  "id": 14,
+  "image":"./images/img14.jpg",
+  "first_name": "Fidelity",
+  "last_name": "Heaseman",
+  "email": "fheasemand@youku.com",
+  "gender": "Polygender",
+  "price": 2001
+}, {
+  "id": 15,
+  "image":"./images/img15.jpg",
+  "first_name": "Beryle",
+  "last_name": "Kealey",
+  "email": "bkealeye@addthis.com",
+  "gender": "Male",
+  "price": 2010
+}]
